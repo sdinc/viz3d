@@ -1,2 +1,8 @@
-install: true
+language: python
+python:
+  - "2.7"
+# command to install dependencies
+install: "pip install pyglet"
+
+# command to run tests
 script: python build.py -b
