@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+
+#---------------------
+#@author info@jbbs-inc.com
+#command line runner for viz3d python module
+#---------------------
+
+import viz3d
+
+viz3d.main()
